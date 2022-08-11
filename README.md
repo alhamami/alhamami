@@ -54,6 +54,3 @@ An ambitious, creative, and highly motivated computer scientist who is intereste
 
 <a href="http://www.github.com/alhamami"><img src="https://activity-graph.herokuapp.com/graph?username=alhamami&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/alhamami"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
