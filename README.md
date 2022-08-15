@@ -9,6 +9,7 @@ An ambitious, creative, and highly motivated computer scientist who is intereste
 * 🌍  I'm based in SA
 * ✉️  You can contact me at [jalalalhamami@gmail.com](mailto:jalalalhamami@gmail.com)
 * 🚀  I'm currently working on [Analysight](http://analysight.up.railway.app/)
+* 📄 Know about my experiences [alhamami.me](alhamami.me)
 * ⚡  Open to work
 
 ### Skills
