@@ -1,7 +1,7 @@
 Hi 👋 My name is Jalal
 ======================
 
-Data Scientist and Full-Stack Web Developer
+Full-Stack Web Developer
 -------------------------------------------
 
 An ambitious, creative, and highly motivated computer scientist who is interested in development. I believe strongly in self-learning, and I'm capable of adapting to adverse environments.
