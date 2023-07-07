@@ -1,8 +1,8 @@
 Hi 👋 My name is Jalal
 ======================
 
-Full-Stack Web Developer
--------------------------------------------
+Software Developer | Mobile App. Developer | Full-Stack Developer
+-----------------------------------------------------------------
 
 An ambitious, creative, and highly motivated computer scientist who is interested in development. I believe strongly in self-learning, and I'm capable of adapting to adverse environments.
 
